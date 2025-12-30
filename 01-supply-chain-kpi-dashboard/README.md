@@ -24,3 +24,13 @@ This project showcases a Power BI dashboard designed to monitor and improve ware
 - **Shift Comparison:** Performance variance across AM/PM shifts.
 
 ## 📁 Repository Structure
+/data          → Sample datasets  
+/powerbi       → Dashboard screenshots or PBIX file  
+/sql           → SQL queries used for data preparation  
+README.md      → Project documentation
+
+## 🧠 Skills Demonstrated
+Data modeling • DAX • KPI design • Operational analytics • Visualization • Power BI best practices
+
+## 🔗 Live Demo / Screenshots
+(Add screenshots or links here)
